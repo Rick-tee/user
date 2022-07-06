@@ -10,14 +10,25 @@ jdbc + servlet + jsp
 #### 安装教程
 
 1.  打开项目，找到user.sql文件
+    ![输入图片说明](manual/1.png)
+    ![输入图片说明](manual/2.png)
 2.  找到项目中jdbc.properties文件，修改其中的连接信息
+    ![输入图片说明](manual/3.png)
 3.  启动项目即可
 
-#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 效果展示
+![输入图片说明](effect/index.png)
+![输入图片说明](effect/register.png)
+![输入图片说明](effect/login_error.png)
+![输入图片说明](effect/list.png)
+![输入图片说明](effect/del1.png)
+![输入图片说明](effect/del2.png)
+![输入图片说明](effect/edit.png)
+
+
+#### 说明
+1.    对初学servlet、jsp的新手友好
 
 #### 参与贡献
 
