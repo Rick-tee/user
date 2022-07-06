@@ -9,7 +9,8 @@ jdbc + servlet + jsp
 
 #### 安装教程
 
-1.  xxxx
+1.  打开项目，找到user.sql文件
+
 2.  xxxx
 3.  xxxx
 
