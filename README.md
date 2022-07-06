@@ -10,9 +10,8 @@ jdbc + servlet + jsp
 #### 安装教程
 
 1.  打开项目，找到user.sql文件
-
-2.  xxxx
-3.  xxxx
+2.  找到项目中jdbc.properties文件，修改其中的连接信息
+3.  启动项目即可
 
 #### 使用说明
 
